@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://malladi.me/2021/01/hello-world/</loc>
-    <lastmod>2021-01-05T12:18:56+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://malladi.me/posts/</loc>
-    <lastmod>2021-01-05T12:18:56+05:30</lastmod>
+    <lastmod>2021-06-28T21:37:54+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://malladi.me/</loc>
+    <lastmod>2021-06-28T21:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://malladi.me/2021/06/you-cannot-move-backwards-in-space/</loc>
+    <lastmod>2021-06-28T21:37:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://malladi.me/2021/01/hello-world/</loc>
     <lastmod>2021-01-05T12:18:56+05:30</lastmod>
   </url>
   
