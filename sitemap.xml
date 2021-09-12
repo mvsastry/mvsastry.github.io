@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://malladi.me/posts/</loc>
-    <lastmod>2021-06-28T21:37:54+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-12T11:07:03+05:30</lastmod>
+  </url><url>
+    <loc>http://malladi.me/2021/09/the-matrix/</loc>
+    <lastmod>2021-09-12T11:07:03+05:30</lastmod>
+  </url><url>
     <loc>http://malladi.me/</loc>
-    <lastmod>2021-06-28T21:37:54+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-12T11:07:03+05:30</lastmod>
+  </url><url>
     <loc>http://malladi.me/2021/06/you-cannot-move-backwards-in-space/</loc>
     <lastmod>2021-06-28T21:37:54+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://malladi.me/2021/01/hello-world/</loc>
     <lastmod>2021-01-05T12:18:56+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://malladi.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://malladi.me/tags/</loc>
   </url>
-  
 </urlset>
